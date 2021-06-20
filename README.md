@@ -1,6 +1,8 @@
 # LeetCode-Solutions
 Solutions of my leetcode problems
 
+https://leetcode.com/ahinshapiro/
+
 # Index
 EASY
 1. [100. Same Tree](https://github.com/ahinshapiro/LeetCode-Solutions/blob/main/SameTree.java)
