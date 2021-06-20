@@ -1,5 +1,5 @@
 # LeetCode-Solutions
-Will be adding all the problems i have solved in LeetCode
+Solutions of my leetcode problems
 
 # Index
 1. [100-Same Tree](https://github.com/ahinshapiro/LeetCode-Solutions/blob/main/SameTree.java)
