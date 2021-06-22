@@ -61,3 +61,10 @@ class Solution {
         return totalCount;
     }
 }
+
+
+/*
+Runtime: 70 ms, faster than 61.63% of Java online submissions for Number of Matching Subsequences.
+Memory Usage: 39.9 MB, less than 81.94% of Java online submissions for Number of Matching Subsequences.
+*/
+
