@@ -18,6 +18,7 @@ MEDIUM
 3. [792. Number of Matching Subsequences](https://github.com/ahinshapiro/LeetCode-Solutions/blob/main/Number%20of%20Matching%20Subsequences.java) | Time - 70ms, Memory - 39.9 MB For 5 * 10pow4 Length Testcase
 4. [134. Gas Station](https://github.com/ahinshapiro/LeetCode-Solutions/blob/main/Gas%20Station.java)  | Time - 33 ms, Memory - 39.1 MB For 10pow4 Length Testcase
 5. [133. Clone Graph](https://github.com/ahinshapiro/LeetCode-Solutions/blob/main/Clone%20Graph.java)  | Time - 26 ms, Memory - 39 MB For 100 Length Testcase
+6. [139. Word Break](https://github.com/ahinshapiro/LeetCode-Solutions/blob/main/139.%20Word%20Break.java)
 
 
 HARD
